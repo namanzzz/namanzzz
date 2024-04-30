@@ -1,4 +1,3 @@
-# 💫 About Me:
 ### Hello there, I am Naman👋<br><br><br>- 🔭 I am currently working on Full Stack Web Development<br>- 🌱 Currently learning Python, Flask etc. <br>- 👯 I’m looking to collaborate on Full stack projects<br>- 💬 Ask me about <br>- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/namanm21/)<br>- 😄 He/Him<br><br>
 
 
