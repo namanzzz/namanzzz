@@ -10,7 +10,7 @@
 ```javascript
 const namanzzz = {
     pronouns: "He" | "Him",
-    code: [C, C++, Python, JavaScript, HTML, CSS],
+    code: [C, C++, Python, JavaScript],
     askMeAbout: ["Web development", "Algorithms", "Tech", "Music", "Travel"],
     technologies: {
         frontEnd: {
