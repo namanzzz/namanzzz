@@ -1,4 +1,4 @@
-# Hi there 👋 I am Naman, Welcome to my GitHub! 
+# Heyy Folks 👋 I am Naman, Welcome to my GitHub! 
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/KhandalNaman?style=social)
